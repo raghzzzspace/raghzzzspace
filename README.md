@@ -1,6 +1,6 @@
 # Hey there, I'm Raghvi Gupta 👋  
 
-### 🚀 Computer Engineering Undergraduate | Developer | Problem Solver  
+### 🚀 CSE Student
 
 I’m a passionate **Computer Engineering student at NIT Kurukshetra** with strong interests in **Software Development, DSA, Machine Learning, and Full Stack Development**. I enjoy building impactful projects, solving coding challenges, and learning new technologies.  
 
