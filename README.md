@@ -28,7 +28,6 @@ MySQL • SQLite • Git • GitHub • Postman
 • Machine Learning • Gen AI   
 
 ---
----
 
 ## 📊 GitHub Stats  
 
