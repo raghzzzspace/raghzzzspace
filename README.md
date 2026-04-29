@@ -25,7 +25,7 @@ HTML • CSS • JavaScript • React • Flask • Django • MERN
 MySQL • SQLite • Git • GitHub • Postman  
 
 ### ML / Data Science  
-• Machine Learning • Gen AI   
+Machine Learning • Gen AI   
 
 ---
 
